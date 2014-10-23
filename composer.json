@@ -1,0 +1,11 @@
+{
+    "name": "kojiromike/magento-random-order-id",
+    "description": "Have Magento's next order id be a random string",
+    "authors": [
+        {
+            "name": "Michael A. Smith",
+            "email": "msmith3@ebay.com"
+        }
+    ],
+    "require": {}
+}
