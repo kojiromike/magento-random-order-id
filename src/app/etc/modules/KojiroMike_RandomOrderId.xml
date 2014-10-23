@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
-  <modules>
-    <KojiroMike_RandomOrderId>
-      <active>true</active>
-      <codePool>community</codePool>
-    </KojiroMike_RandomOrderId>
-  </modules>
+    <modules>
+        <KojiroMike_RandomOrderId>
+            <active>true</active>
+            <codePool>community</codePool>
+        </KojiroMike_RandomOrderId>
+    </modules>
 </config>
