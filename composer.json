@@ -7,5 +7,6 @@
             "email": "msmith3@ebay.com"
         }
     ],
+    "type": "magento-module",
     "require": {}
 }
