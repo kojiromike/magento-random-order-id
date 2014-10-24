@@ -7,11 +7,17 @@
     </modules>
     <global>
         <models>
-            <eav>
-                <rewrite>
-                    <random_order_id>KojiroMike_RandomOrderId_Model_Randomize</random_order_id>
-                </rewrite>
-            </eav>
+            <kojiromike>
+                <class>KojiroMike_RandomOrderId_Model</class>
+            </kojiromike>
         </models>
+        <resources>
+            <kojiromikerandomorderidsetup>
+                <setup>
+                    <module>KojiroMike_RandomOrderId</module>
+                    <class>Mage_Eav_Model_Entity_Setup</class>
+                </setup>
+            </kojiromikerandomorderidsetup>
+        </resources>
     </global>
 </config>
